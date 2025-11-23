@@ -27,3 +27,5 @@ plt.xlabel("Bill")
 plt.ylabel("PctTip %")
 plt.title("Bill Vs. PctTip")
 plt.show()
+##output for Bill Vs. Tip equation: "the equation of the Ball Vs. Tip plot is : y = 0.182x + -0.292"
+#output for Bill Vs. PctTip equation: "the equation of the Ball Vs. PctTip plot is : y = 4.88%x + 15.51"
